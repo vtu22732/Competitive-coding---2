@@ -1,0 +1,1 @@
+Welcome to the repository for the 7th Semester Competitive Coding 2 Lab. This repository contains Java solutions for a variety of programming problems, organized by topic. Each solution is designed to be clean, efficient, and well-documented.
